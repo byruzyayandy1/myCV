@@ -1,0 +1,18 @@
+h1{
+text-align: center;
+}
+p{
+text-align: center;
+}
+h2{
+	color: #c53f2f;
+}
+img{
+	border: 10px;
+	border-radius: 8px;
+	box-shadow: 0 4px 8px 0; 
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+	background-image: url("polygon.jpg");
+}
