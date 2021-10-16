@@ -3,7 +3,7 @@
 *The purpose of writing this article is to give people a summary of everything about me, what I do and how I move on in life.
 *
 
-*The word “Yayandi” is a family name, my real name is Mohammed Bayero Yayandi for those that don’t know.*
+*The word “Yayandi” is a family name, my real name is Mohammed Bayero Yayandi for those who don’t know.*
 
 
 > 
@@ -22,13 +22,13 @@ I love travelling, dancing, networking and catching a cruise.
 ### My Journey to Tech Space.
 
 
-I worked in a Business Centre (Internet Cafe) for four years, working with computers to start developing interest in technology. I was curious to know who to build the software I use on my system.  That led me to start a google search looking for a Scholarship to learn not knowing I can learn online, on my own.
+I worked in a Business Centre (Internet Cafe) for four years, working with computers, make me to start developing interest in technology. I was curious to know how to build the software I use on my system.  That led me to start a google search looking for a Scholarship to learn not knowing I can learn online, on my own.
 
 In my online search, I came across a yearly scholarship by NIIT. I applied, wrote the exams, and scored the highest mark. When I was told the scholarship was partial, I needed to pay N180k, I was like what? I immediately vanished. I went back to my system to start searching. I came across FreeCodeCamp. It's a free online coding platform. I learned HTML, CSS & some JavaScript.
 
 I joined different Tech Communities in Kaduna. Later on, I switched to Data Science which has been very exciting playing with data and the like, attending meetups, networking, and building a personal community. 
 
-I participated in DataHack for Financial Inclusion (DataHack4Fi), took the complete Python Track courses on Data Camp Ingressive for Good). I was selected for a fully funded AI Programming with Python Nanodegree on Udacity by Africa App Launchpad (AAL) an initiative of the Egyptian government and many more that I can’t remember.
+I participated in DataHack for Financial Inclusion (DataHack4Fi), took the complete Python Track courses on Data Camp courtesy of (Ingressive for Good), later selected for a fully funded AI Programming with Python Nanodegree on Udacity by Africa App Launchpad (AAL) an initiative of the Egyptian government and many more that I can’t remember.
 
 ### My Journey to Development Space.
 
@@ -52,7 +52,7 @@ YandyTech has proven to be passionate about development and tech community build
 
 I am very happy and excited anytime people share their testimony on how they got impacted by the community and I can categorically say we have impacted a lot both directly and indirectly.
 
-The work I do at YandyTech makes me stand out among 2000 candidates and got featured on the  [British Council](https://www.britishcouncil.org.ng/blog/thanks-you-mohammed-bayero-yayandi)  of Nigeria’s blog as one of the 75 most inspiring stories by British Council Nigeria. In 2020, Yayandi was awarded as an Unsung Hero by Aspilos Foundation and was also featured on   [Becca Diaries ](https://www.beccadiaries.com/2020/06/24/meet-yayandi-of-africa-a-tech-community-builder/) and  [Techibytes](https://techibytes.com/founder-of-yandytech-making-a-difference-in-northwest-nigeria-tech-ecosystem/) .
+The work I do at YandyTech makes me stand out among 2000 candidates and got featured on the  [British Council](https://www.britishcouncil.org.ng/blog/thanks-you-mohammed-bayero-yayandi)  of Nigeria’s blog as one of the 75 most inspiring stories by British Council Nigeria. In 2020, I was awarded as an Unsung Hero by Aspilos Foundation and was also featured on   [Becca Diaries ](https://www.beccadiaries.com/2020/06/24/meet-yayandi-of-africa-a-tech-community-builder/) and  [Techibytes](https://techibytes.com/founder-of-yandytech-making-a-difference-in-northwest-nigeria-tech-ecosystem/) .
 
 
 ![Yayandi.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1634367034668/SmortiBWT.jpeg)
@@ -61,4 +61,5 @@ Lastly, I am currently a BeyGOOD x Gl⭕️bal Citizen Fellow. Lol, I mean Beyon
 
 *This is just a summary of who I am and what I have achieved. I hope you will subscribe to my weekly digest.
 *
+
 Thank you for your time.
