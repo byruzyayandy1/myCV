@@ -79,7 +79,8 @@ This is the most interesting part; peer pressure got people depressed and mental
 - Rejected for Levi’s GenZ Youth Council, after the interview and had the feeling that I have already made it.
 
 - Rejected for BuyCoins Customer Success Associate role after chit-chatting with the Co-Founder.
-Didn’t find love until now 😩😩 ( anytime I try shooting a shot, I got rejected).
+
+- Didn’t find love until now 😩😩 ( anytime I try shooting a shot, I got rejected. Don't mind me, I am such a bubbly person).
 
 - Rejected for Charity Entrepreneurship Fellowship after being shortlisted.
 
