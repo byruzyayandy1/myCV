@@ -8,7 +8,7 @@ Before I was thinking it wasn’t even necessary to write 2021 in review, but I 
 
 Last thing before we dive into the business of the day. Always pray to your GOD, spirituality is very important, and focus on what you believe is right. 
 
-I hope I have not perspired to aspire you? Abeg o, I am not a motivational speaker 🙆🏻‍♂️🙆🏻‍♂️🙆🏻‍♂️ I just here to spread love and light 💜 + 💡, positive energy and catch cruise.
+I hope I have not perspired to aspire you? Abeg o, I am not a motivational speaker 🙆🏻‍♂️🙆🏻‍♂️🙆🏻‍♂️ I’m just here to spread love and light 💜 + 💡, positive energy and catch cruise.
 
 ### THE GOOD
 
