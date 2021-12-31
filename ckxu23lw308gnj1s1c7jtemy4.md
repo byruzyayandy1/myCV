@@ -87,7 +87,7 @@ Didn’t find love until now 😩😩 ( anytime I try shooting a shot, I got rej
 
 - Rejected for more and more.
 
-But the ones that pain me more, are the Levi’s and BuyCoins after being comfortable getting selected. The lesson I have learnt here is never to be too comfortable with uncertainties.
+But the ones that pain me more, are the Levi’s and BuyCoins after being comfortable getting selected. The lesson I have learnt here is; > Never feel too comfortable with uncertainties.
 
 Alhamdulilah for what I have lost and what I have gained.
 
