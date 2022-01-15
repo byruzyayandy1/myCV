@@ -4,7 +4,7 @@ Before I dive into the business of the day, let me start with a disclaimer. *Thi
 
 I'm just here to explain crypto and what it entails in very simple terms and layperson’s language for people that don’t have a single idea of tech, web3, and blockchain to understand.
 
-So, what the heck are cryptocurrencies? Some years back, I was in the class of people that didn't trust the legitimacy of cryptocurrencies, even though I am a tech guy, but after a deep research on the entire blockchain ecosystem, I came to realize that everything is built on the blockchain is the future. Yes, I mean it’s the future.
+So, what the heck are cryptocurrencies? Some years back, I was in the class of people that didn't trust the legitimacy of cryptocurrencies, even though I am a tech guy, but after a deep research on the entire blockchain ecosystem, I came to realize that everything is built on the blockchain, which is the future. Yes, I mean it’s the future.
 
 Before I give you definitions of crypto, blockchain or web3. Let me bring back the story of ATM, how most people, especially Africans (Nigerians) have a zero trust in the Automated Teller Machine and the card. Even though I was young, I can remember hearing questions like “I cannot trust my money with this card”, “I prefer going to collect my money” This, This, This and That. But now people are more comfortable using the card not only in ATMs but also in POS, which is an evolution that will happen on crypto soon.
 
@@ -73,13 +73,13 @@ Let me break down and explain each category with an example:
 
 **Utility Token**: A utility token, or utility token, is a special type of token that helps in capitalizing or financing projects for startups, companies, or project development groups. El type of token called a utility token, used as a safeguard for participation in mass sales to raise capital on a project.
 
-Store of Value Tokens: A store of value is an asset, commodity, or currency that maintains its value without depreciating. The best example of store of value cryptocurrencies: Bitcoin (BTC) and Ethereum (ETH) which holds the most market enthusiasm: 
+**Store of Value Tokens**: A store of value is an asset, commodity, or currency that maintains its value without depreciating. The best example of store of value cryptocurrencies: Bitcoin (BTC) and Ethereum (ETH) which holds the most market enthusiasm: 
 
 There’s no doubt that Bitcoin is the first, most popular and most valuable currency without a Central Bank regulation in any country across the globe. According to Wikipedia, Bitcoin is a decentralized digital currency, without a central bank or single administrator, that can be sent from user to user on the peer-to-peer bitcoin network with no intermediaries.
 
 The second most popular cryptocurrency, Ethereum, is a decentralized, open-source blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. Amongst cryptocurrencies, Ether is second only to Bitcoin in market capitalization. And many more.
 
-Before I bore anyone, let me end this article by confirming YES, there are some bad eggs using crypto for fraud because of the decentralization and a lot of speculation around non-regulation of crypto by any central bank which makes people do whatever they like. I am part of the people that are advocating for the regulation which will make it more legit and have zero worries when investing like the forex market, stocks and binary.
+Before I bore anyone, let me end this article by confirming YES, there are some bad eggs using crypto for fraud because of the decentralization and a lot of speculation around non-regulation of crypto by any central bank which makes people do whatever they like. I am part of the few people that are advocating for the regulation which will make it more legit and have zero worries when investing like the forex market, stocks and binary.
 
 *Like I said earlier, this article is not in any way encouraging, pushing, or advising anyone to invest in cryptocurrency. If you are interested in investing, do your research, consult financial advisors, and use your money wisely.*
 
